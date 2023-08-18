@@ -17,8 +17,8 @@ body {
 }
 
 .add-bg {
-  background: rgb(34,193,195);
-  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,126,253,1) 100%);
+  background: rgb(193,244,245);
+  background: linear-gradient(0deg, rgba(193,244,245,1) 0%, rgba(158,192,246,1) 100%);
 }
 
 /* Project Section Pagination */
@@ -38,8 +38,8 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgb(34,193,195);
-  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,126,253,1) 100%);
+  background: rgb(193,244,245);
+  background: linear-gradient(0deg, rgba(193,244,245,1) 0%, rgba(158,192,246,1) 100%);
   border: 2px solid #374151;
   border-radius: 24px;
 }
