@@ -1,4 +1,4 @@
-import { SiGmail, SiTwitter, SiGithub, SiHashnode, SiYoutube } from "react-icons/si";
+import { SiGmail, SiTwitter, SiGithub, SiYoutube,SiLinkedin } from "react-icons/si";
 
 export const Connect = () => {
   return (
@@ -23,11 +23,8 @@ export const Connect = () => {
           <a href="https://github.com/rakshit087/" target="_blank" rel="noreferrer">
             <SiGithub />
           </a>
-          <a href="https://rakshit087.hashnode.dev/" target="_blank" rel="noreferrer">
-            <SiHashnode />
-          </a>
-          <a href="https://www.youtube.com/channel/UCA446V0YEkL_BeBZt8gXFHg" target="_blank" rel="noreferrer">
-            <SiYoutube />
+          <a href="https://github.com/rakshit087/" target="_blank" rel="noreferrer">
+            <LinkedIN />
           </a>
         </div>
       </div>
