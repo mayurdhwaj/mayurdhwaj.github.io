@@ -1,4 +1,4 @@
-import { SiGmail, SiTwitter, SiGithub, SiYoutube,SiLinkedin } from "react-icons/si";
+import { SiGmail, SiTwitter, SiGithub,SiLinkedin } from "react-icons/si";
 
 export const Connect = () => {
   return (
@@ -24,7 +24,7 @@ export const Connect = () => {
             <SiGithub />
           </a>
           <a href="https://github.com/rakshit087/" target="_blank" rel="noreferrer">
-            <LinkedIN />
+            <SiLinkedin />
           </a>
         </div>
       </div>
