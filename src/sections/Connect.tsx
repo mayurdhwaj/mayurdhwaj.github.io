@@ -14,16 +14,16 @@ export const Connect = () => {
           You can also find me on these platforms:
         </p>
         <div className="flex items-center justify-around w-full py-6 text-3xl rounded-xl">
-          <a href="mailto:rakshit087@gmail.com">
+          <a href="mailto:mayurdhwajs94@gmail.com">
             <SiGmail />
           </a>
           <a href="https://twitter.com/rakshit087/" target="_blank" rel="noreferrer">
             <SiTwitter />
           </a>
-          <a href="https://github.com/rakshit087/" target="_blank" rel="noreferrer">
+          <a href="https://github.com/mayurdhwaj/" target="_blank" rel="noreferrer">
             <SiGithub />
           </a>
-          <a href="https://github.com/rakshit087/" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/mayurdhwaj-singh-652361193/" target="_blank" rel="noreferrer">
             <SiLinkedin />
           </a>
         </div>
