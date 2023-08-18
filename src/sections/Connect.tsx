@@ -10,7 +10,7 @@ export const Connect = () => {
         <p className="mb-4 text-3xl font-bold text-center md:text-4xl md:mb-8">Contact Me</p>
         <p className="mb-8 text-md md:text-xl md:mb-16">
           I love connecting with different people and it would be awesome if we could get in touch :) 
-          You can schedule a meet with me on Cal <a href="https://cal.com/rakshit087" className="text-blue-900">here.</a> 
+          You can schedule a meet with me on Teams,Gmeet. 
           You can also find me on these platforms:
         </p>
         <div className="flex items-center justify-around w-full py-6 text-3xl rounded-xl">
