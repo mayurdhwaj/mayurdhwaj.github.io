@@ -31,20 +31,7 @@ export const Connect = () => {
           </a>
         </div>
       </div>
-      <footer className="absolute text-xs bottom-4 text-center">
-        <span>
-          Designed with 💜 by{" "}
-          <a href="https://rakshit087.github.io" className="underline">
-            Rakshit
-          </a>
-        </span>
-        <div className="text-gray-400 italic">
-          Source code available on{" "} 
-          <a href="https://github.com/rakshit087/rakshit087.github.io" className="underline">
-            GitHub
-          </a>
-        </div>
-      </footer>
+      
     </section>
   );
 };
