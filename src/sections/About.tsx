@@ -19,7 +19,7 @@ export const About = () => {
           </p>
         </div>
         <div className="flex flex-col md:flex-row">
-          <PrimaryButton label="Resume" href="https://bit.ly/rakshit-resume" />
+          <PrimaryButton label="Resume" href="https://drive.google.com/file/d/1VCnQRMwRBIdprFfl_8b6dU7tuQnxtqUF/view?usp=drive_link" />
         </div>
       </div>
     </section>
