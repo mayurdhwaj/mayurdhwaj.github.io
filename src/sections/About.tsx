@@ -10,7 +10,8 @@ export const About = () => {
         <p className="mb-4 text-3xl font-bold md:text-4xl md:mb-8">About</p>
         <div className="mb-8 text-lg md:text-xl md:mb-16">
           <p className="mb-4">
-          Aspiring Backend Developer with a degree in Computer Science. Proficient in Python and Java, eager to contribute clean, scalable code.
+          Hi there! I&apos;m John Smith, a passionate and aspiring Backend Developer eager to contribute my skills and enthusiasm to the world of software development.
+           As a recent graduate with a degree in Computer Science. 
           </p>
           <p>
             In addition to development, I enjoy travelling, watching anime, listening to music, reading fiction and
