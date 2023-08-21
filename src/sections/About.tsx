@@ -9,8 +9,9 @@ export const About = () => {
       <div className="flex flex-col items-center justify-center max-w-3xl">
         <p className="mb-4 text-3xl font-bold md:text-4xl md:mb-8">About</p>
         <div className="mb-8 text-lg md:text-xl md:mb-16">
-          <p className="mb-4">Hi there! I'm MAyur,a passionate and aspiring Backend Developer eager to contribute my skills and enthusiasm to the world of software development. As a recent graduate with a degree in Computer Science.
-      
+          <p className="mb-4">
+            Hi there! I'm MAyur,a passionate and aspiring Backend Developer eager to contribute my skills and enthusiasm to the world of
+            software development. As a recent graduate with a degree in Computer Science.
           </p>
           <p>
             In addition to development, I enjoy travelling, watching anime, listening to music, reading fiction and
