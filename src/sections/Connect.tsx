@@ -17,7 +17,7 @@ export const Connect = () => {
           <a href="mailto:mayurdhwajs94@gmail.com">
             <SiGmail />
           </a>
-          <a href="https://twitter.com/intent/follow?screen_name=singh_mayur7/" target="_blank" rel="noreferrer">
+          <a href="https://twitter.com/intent/follow?screen_name=singh_mayur7" target="_blank" rel="noreferrer">
             <SiTwitter />
           </a>
           <a href="https://github.com/mayurdhwaj/" target="_blank" rel="noreferrer">
