@@ -9,7 +9,7 @@ export const About = () => {
       <div className="flex flex-col items-center justify-center max-w-3xl">
         <p className="mb-4 text-3xl font-bold md:text-4xl md:mb-8">About</p>
         <div className="mb-8 text-lg md:text-xl md:mb-16">
-          <p className="mb-4">
+          <p> //className="mb-4"
             I am a lifelong learner with experience in Full Stack Development and Automation. I am passionate about
             bringing ideas to life and writing readable and beautiful code.
           </p>
