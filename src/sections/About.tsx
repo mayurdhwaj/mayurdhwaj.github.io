@@ -10,7 +10,7 @@ export const About = () => {
         <p className="mb-4 text-3xl font-bold md:text-4xl md:mb-8">About</p>
         <div className="mb-8 text-lg md:text-xl md:mb-16">
           <p className="mb-4">
-            Hi there! I&apos;m John Smith, a passionate and aspiring Backend Developer eager to contribute my skills and enthusiasm to the world of software development.
+            Hi there! I am John Smith, a passionate and aspiring Backend Developer eager to contribute my skills and enthusiasm to the world of software development.
             As a recent graduate with a degree in Computer Science.
           </p>
           <p>
